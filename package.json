@@ -33,7 +33,7 @@
     "babel-register": "^6.4.3",
     "babelify": "^7.2.0",
     "browserify": "12.0.1",
-    "browserify-shim": "3.8.11",
+    "browserify-shim": "3.8.16",
     "markdox": "0.1.10",
     "mkdirp": "^0.5.1",
     "mocha": "2.3.3",
